@@ -17,7 +17,7 @@ Design: Plan how the software will be structured.
 Implementation: Write the code.
 Testing: Ensure the software works correctly.
 Deployment: Release the software to users.
-Maintenance: Fix bugs and make updates.
+Maintenance: Fix bugs and make updates..
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
